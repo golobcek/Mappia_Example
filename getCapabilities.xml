@@ -217,7 +217,7 @@
 				<Title>ks</Title>
 				<Abstract>GH:ks ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="13.730965437796621" miny="45.8225536911083" maxx="14.130248859880009" maxy="46.00299087647822"></LatLonBoundingBox>
@@ -237,7 +237,7 @@
 				<Title>obcina_parcele_kosnja</Title>
 				<Abstract>GH:obcina_parcele_kosnja ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="13.751647255521634" miny="45.83749318356994" maxx="14.068813441281694" maxy="45.95163003951351"></LatLonBoundingBox>
@@ -257,7 +257,7 @@
 				<Title>ob_obcine</Title>
 				<Abstract>GH:ob_obcine ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="13.730794459387836" miny="45.82257547375276" maxx="14.130040373736026" maxy="46.00302123312777"></LatLonBoundingBox>
@@ -277,7 +277,7 @@
 				<Title>obcina_parcele</Title>
 				<Abstract>GH:obcina_parcele ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="13.741325292217624" miny="45.82381625476058" maxx="14.130022708228987" maxy="45.95790129591427"></LatLonBoundingBox>
@@ -297,7 +297,7 @@
 				<Title>barvni_ortofoto</Title>
 				<Abstract>GH:barvni_ortofoto ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="13.346516420022363" miny="45.40760108206855" maxx="16.624025658965323" maxy="46.903537991465996"></LatLonBoundingBox>
